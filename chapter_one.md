@@ -1,0 +1,74 @@
+# Chapter One
+
+
+### 1.0 Introduction
+Clinical posting is one of the most important aspects of nursing education because it gives student nurses the opportunity to apply classroom knowledge in real-life healthcare settings. Through clinical experience, nursing students learn how to care for patients, communicate with health professionals, perform procedures, and develop confidence in their professional roles. However, the clinical environment can also expose students to different forms of stress. They may face fear of making mistakes, anxiety about dealing with seriously ill patients, pressure from ward routines, unfamiliar hospital equipment, and close supervision from instructors and staff nurses.
+
+Stress during clinical posting has become an important issue in nursing education because excessive stress may affect learning, confidence, emotional well-being, and performance. When stress is not properly managed, it may reduce students' concentration, weaken their interest in clinical learning, and negatively influence their competence. On the other hand, when students develop effective coping mechanisms, they are more likely to adjust successfully to the demands of clinical practice. Coping mechanisms such as problem solving, seeking support, prayer, relaxation, and positive thinking may help students remain emotionally stable and academically focused.
+
+For nursing students in Nigerian universities, clinical postings often take place in settings where patient load is high and resources may be limited. These realities can make the experience more demanding. Because stress and coping may vary from one institution to another, it is necessary to examine the experiences of nursing students in Delta State University, Abraka. This study is therefore designed to evaluate stress levels and coping mechanisms during clinical postings among nursing students in DELSU, Abraka.
+
+### 1.1 Background of the Study
+Nursing is both an academic and practice-based profession. The training of nurses requires students to gain sound theoretical knowledge as well as practical clinical competence. Clinical posting is the bridge between theory and practice. It allows nursing students to observe patient care, participate in nursing procedures, develop clinical judgment, and understand the realities of healthcare delivery. For this reason, clinical experience is regarded as a major component of nursing education.
+
+Despite its importance, clinical posting is often stressful for nursing students. Unlike classroom learning, the clinical setting involves direct interaction with patients, real medical conditions, and the possibility of serious consequences if mistakes are made. Students are expected to carry out procedures correctly, communicate well with patients and staff, meet institutional expectations, and perform under supervision. Many students therefore experience anxiety, emotional tension, and uncertainty during posting.
+
+Several factors may contribute to stress during clinical posting. These include heavy workload, fear of making errors, lack of confidence in carrying out nursing procedures, fear of infection, harsh communication from ward staff, inadequate clinical materials, and exposure to pain, emergencies, and death. Students may also feel stressed when they are evaluated by lecturers or instructors in the ward environment. In some cases, the stress may be increased by transportation difficulties, financial challenges, lack of rest, and the pressure of combining academic assignments with hospital duties.
+
+The way students respond to these stressors is described as coping. Coping mechanisms are the behavioural, emotional, spiritual, and cognitive efforts individuals use to manage stress. Among nursing students, coping may involve problem solving, discussing challenges with colleagues or lecturers, seeking social support, praying, staying optimistic, relaxing, or avoiding stressful situations. Some coping mechanisms are helpful and adaptive, while others may be less effective. The quality of coping can influence students' emotional health, learning outcomes, and clinical performance.
+
+Studies from different countries have shown that nursing students often experience moderate to high levels of stress in clinical settings. Common stressors reported in the literature include workload, fear of harming patients, inadequate skills, poor support from staff, and anxiety about evaluation. Nigerian studies also suggest that clinical posting is challenging for many student nurses and that coping patterns may be shaped by the local learning environment and available support systems.
+
+Although related studies exist, stress levels and coping mechanisms are not always the same across institutions because training environments differ. Factors such as hospital setting, supervision style, institutional support, and student characteristics may influence experience. This creates the need for institution-specific studies. In Delta State University, Abraka, nursing students are exposed to clinical postings as part of their training, yet there is limited documented evidence on how stressed they feel during these postings and how they cope. This gap makes the present study necessary.
+
+### 1.2 Statement of the Problem
+Clinical posting is expected to help nursing students acquire the knowledge, skills, and confidence required for professional practice. Ideally, students should learn in a supportive environment that allows them to build competence without unnecessary psychological strain. In reality, however, many nursing students experience stress during clinical postings. They may feel anxious about making mistakes, being corrected in front of patients, handling unfamiliar procedures, interacting with ward staff, or caring for severely ill patients.
+
+When stress becomes excessive, it may interfere with students' concentration, confidence, communication, and clinical performance. It may also reduce enthusiasm for learning and affect emotional well-being. Although students may adopt different coping mechanisms, not all coping strategies are equally effective. Some may help them adjust positively, while others may only provide temporary relief.
+
+Existing literature shows that stress among nursing students during clinical experience is a real and recurring issue, but findings differ from one setting to another. Since institutional context matters, it cannot be assumed that experiences reported elsewhere are exactly the same in Delta State University, Abraka. At present, there is inadequate local evidence showing the level of stress experienced by nursing students of DELSU during clinical postings, the major sources of such stress, and the coping mechanisms they use. The absence of this evidence creates a gap in knowledge and limits the ability of educators and administrators to plan appropriate support. It is against this background that this study seeks to evaluate stress levels and coping mechanisms during clinical postings among nursing students in DELSU, Abraka.
+
+### 1.3 Objectives of the Study
+The broad objective of this study is to evaluate stress levels and coping mechanisms during clinical postings among nursing students of Delta State University, Abraka.
+
+The specific objectives are to:
+1. determine the level of stress experienced by nursing students during clinical postings;
+2. identify the major sources of stress during clinical postings among nursing students;
+3. assess the coping mechanisms used by nursing students during clinical postings; and
+4. examine the relationship between stress levels and selected socio-demographic variables of the students.
+
+### 1.4 Research Questions
+The following research questions will guide the study:
+1. What is the level of stress experienced by nursing students during clinical postings in DELSU, Abraka?
+2. What are the major sources of stress during clinical postings among nursing students in DELSU, Abraka?
+3. What coping mechanisms are used by nursing students during clinical postings in DELSU, Abraka?
+4. Is there any relationship between stress levels and selected socio-demographic variables of nursing students in DELSU, Abraka?
+
+### 1.5 Significance of the Study
+The findings of this study will be beneficial to nursing students, nurse educators, clinical instructors, the institution, the nursing profession, and future researchers.
+
+To nursing students, the study will help increase awareness of the major sources of stress associated with clinical posting and the coping mechanisms that may improve adjustment and performance.
+
+To nurse educators and clinical instructors, the study will provide evidence that may guide supportive teaching, mentoring, supervision, and student preparation before posting.
+
+To Delta State University, Abraka, the findings may help the department and university management understand areas where students need academic, emotional, or institutional support during clinical training.
+
+To the nursing profession and healthcare providers, the study may contribute to better preparation of student nurses for practice, which can improve professional confidence, learning outcomes, and patient care.
+
+To researchers, the study will add to existing knowledge on stress and coping among nursing students and provide reference material for related studies.
+
+### 1.6 Scope of the Study
+This study will focus on stress levels and coping mechanisms during clinical postings among nursing students of Delta State University, Abraka. The study will specifically examine the level of stress experienced by students, the major stressors associated with clinical posting, the coping mechanisms used by the students, and the relationship between stress and selected socio-demographic variables. The study will be limited to nursing students who have been exposed to clinical postings in DELSU, Abraka.
+
+### 1.7 Operational Definition of Terms
+**Evaluation:** In this study, evaluation refers to the systematic assessment of stress levels and coping mechanisms among nursing students during clinical postings.
+
+**Stress:** Stress refers to the physical, emotional, and psychological tension experienced by nursing students as a result of the demands of clinical posting.
+
+**Stress level:** Stress level refers to the degree or intensity of stress experienced by nursing students during clinical postings.
+
+**Coping mechanisms:** Coping mechanisms refer to the methods, behaviours, thoughts, or strategies used by nursing students to manage stress during clinical postings.
+
+**Clinical posting:** Clinical posting refers to the practical placement of nursing students in hospital or healthcare settings for hands-on learning and patient care experience.
+
+**Nursing students:** Nursing students refer to undergraduate students in the nursing programme of Delta State University, Abraka, who are involved in clinical training.
